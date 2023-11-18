@@ -6,3 +6,7 @@
 
 #### About Me
 > currently working on PT. Dua Agung
+
+![Ibnul's Github Stats](https://github-readme-stats.vercel.app/api?username=cacing69&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacing69&hide=html,css,javascript,php&theme=dark&layout=compact)
