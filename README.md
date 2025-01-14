@@ -5,4 +5,4 @@
 > For now, just focusing on my company repositories (gitlab). So, basicaly i'm not doing so much here.
 
 #### About Me
-> currently working on PT. Dua Agung
+> Currently working as "Pengangguran Internasional"
